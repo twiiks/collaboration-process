@@ -1,8 +1,8 @@
-# team twiiks 협업 프로세스
+# team twiiks collaboration-process
 
 ![together](./together.jpg)
 
-### 커밋 메시지 형식 참고
+### reference of commit message template
 ```
 커밋 요약
 
@@ -19,14 +19,14 @@ Why :
 
 ```
 
-### 풀 리퀘스트 형식 참고
-1. 제목
+### reference of pull request template
+1. title
     
 ```
 일감 제목과 동일
 ```
     
-2. 내용
+2. contents
 ```
 [Redmine Issue #일감번호](일감 url)
 
